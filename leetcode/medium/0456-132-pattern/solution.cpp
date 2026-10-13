@@ -72,7 +72,7 @@
 //     }
 // };
 
-
+// above two soln is not the right solution and will fail on submision , 
 
 class Solution {
 public:
