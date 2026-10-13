@@ -48,9 +48,9 @@ Explanation: There are three 132 patterns in the sequence: [-1, 3, 2], [-1, 3, 0
 ## Solution
 
 **Language:** C++  
-**Runtime:** 13 ms (beats 38.23%)  
-**Memory:** 70.8 MB (beats 25.40%)  
-**Submitted:** 2026-10-13T18:56:03.850Z  
+**Runtime:** 9 ms (beats 74.90%)  
+**Memory:** 70.7 MB (beats 51.95%)  
+**Submitted:** 2026-10-13T18:57:06.886Z  
 
 ```cpp
 // // class Solution {
@@ -127,7 +127,7 @@ Explanation: There are three 132 patterns in the sequence: [-1, 3, 2], [-1, 3, 0
 //     }
 // };
 
-
+// above two soln is not the right solution and will fail on submision , 
 
 class Solution {
 public:
