@@ -50,9 +50,9 @@ twitter.getNewsFeed(1);  // User 1's news feed should return a list with 1 tweet
 ## Solution
 
 **Language:** C++  
-**Runtime:** 4 ms (beats 84.37%)  
-**Memory:** 55.7 MB (beats 93.09%)  
-**Submitted:** 2026-10-12T14:27:20.824Z  
+**Runtime:** 23 ms (beats 13.34%)  
+**Memory:** 55.8 MB (beats 72.80%)  
+**Submitted:** 2026-10-14T09:51:36.636Z  
 
 ```cpp
 
