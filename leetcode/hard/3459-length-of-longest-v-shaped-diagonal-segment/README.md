@@ -68,9 +68,9 @@ The longest V-shaped diagonal segment has a length of 1 and follows these coordi
 ## Solution
 
 **Language:** C++  
-**Runtime:** 1557 ms (beats 39.32%)  
-**Memory:** 94.6 MB (beats 91.26%)  
-**Submitted:** 2026-10-12T14:25:37.328Z  
+**Runtime:** 1568 ms (beats 37.71%)  
+**Memory:** 94.4 MB (beats 100.00%)  
+**Submitted:** 2026-10-16T10:58:56.633Z  
 
 ```cpp
 class Solution {
