@@ -48,9 +48,9 @@ Explanation: There are three 132 patterns in the sequence: [-1, 3, 2], [-1, 3, 0
 ## Solution
 
 **Language:** C++  
-**Runtime:** 9 ms (beats 74.90%)  
-**Memory:** 70.7 MB (beats 51.95%)  
-**Submitted:** 2026-10-13T18:57:06.886Z  
+**Runtime:** 13 ms (beats 38.18%)  
+**Memory:** 70.7 MB (beats 51.47%)  
+**Submitted:** 2026-10-17T06:28:12.484Z  
 
 ```cpp
 // // class Solution {
