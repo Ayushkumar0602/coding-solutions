@@ -38,8 +38,8 @@ Explanation: 10 = 3 + 3 + 4, 3 × 3 × 4 = 36.
 
 **Language:** C++  
 **Runtime:** 0 ms (beats 100.00%)  
-**Memory:** 8.2 MB (beats 56.72%)  
-**Submitted:** 2026-10-24T12:42:11.331Z  
+**Memory:** 8.2 MB (beats 56.91%)  
+**Submitted:** 2026-10-26T18:30:25.719Z  
 
 ```cpp
 
