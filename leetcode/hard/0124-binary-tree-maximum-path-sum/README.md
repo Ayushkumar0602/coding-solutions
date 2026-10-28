@@ -40,9 +40,9 @@ Explanation: The optimal path is 15 -> 20 -> 7 with a path sum of 15 + 20 + 7 = 
 ## Solution
 
 **Language:** C++  
-**Runtime:** 0 ms (beats 100.00%)  
-**Memory:** 28 MB (beats 51.71%)  
-**Submitted:** 2026-10-18T12:54:13.324Z  
+**Runtime:** 1 ms (beats 22.10%)  
+**Memory:** 27.9 MB (beats 76.81%)  
+**Submitted:** 2026-10-28T16:27:00.769Z  
 
 ```cpp
 /**
