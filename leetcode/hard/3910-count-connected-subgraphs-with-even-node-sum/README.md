@@ -60,9 +60,9 @@ Return an integer representing the number of  **non-empty**  subsets `s` of node
 ## Solution
 
 **Language:** C++  
-**Runtime:** 885 ms (beats 10.17%)  
-**Memory:** 373.9 MB (beats 5.08%)  
-**Submitted:** 2026-11-06T05:47:05.963Z  
+**Runtime:** 896 ms (beats 10.22%)  
+**Memory:** 373.9 MB (beats 5.11%)  
+**Submitted:** 2026-11-07T16:54:36.945Z  
 
 ```cpp
 class Solution {
