@@ -38,9 +38,9 @@ Explanation: The maximum width ramp is achieved at (i, j) = (2, 9): nums[2] = 1 
 ## Solution
 
 **Language:** C++  
-**Runtime:** 7 ms (beats 54.01%)  
-**Memory:** 47.9 MB (beats 97.98%)  
-**Submitted:** 2026-10-31T10:19:11.991Z  
+**Runtime:** 8 ms (beats 44.69%)  
+**Memory:** 48 MB (beats 91.48%)  
+**Submitted:** 2026-11-08T14:59:55.519Z  
 
 ```cpp
 class Solution {
