@@ -8,6 +8,8 @@ Given a string `s`, remove duplicate letters so that every letter appears once a
 
  
 
+Original
+C++
  **Example 1:** 
 
 ```
@@ -38,9 +40,9 @@ Output: "acdb"
 ## Solution
 
 **Language:** C++  
-**Runtime:** 3 ms (beats 15.27%)  
-**Memory:** 9.4 MB (beats 42.85%)  
-**Submitted:** 2026-11-01T12:16:15.628Z  
+**Runtime:** 1 ms (beats 39.22%)  
+**Memory:** 9.4 MB (beats 47.78%)  
+**Submitted:** 2026-11-11T10:48:42.092Z  
 
 ```cpp
 class Solution {
