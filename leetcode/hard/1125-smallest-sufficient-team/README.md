@@ -16,6 +16,8 @@ It is  **guaranteed**  an answer exists.
 
  
 
+Original
+C++
  **Example 1:** 
 
 ```
@@ -51,9 +53,9 @@ Output: [1,2]
 ## Solution
 
 **Language:** C++  
-**Runtime:** 32 ms (beats 74.31%)  
-**Memory:** 13.7 MB (beats 80.65%)  
-**Submitted:** 2026-10-27T16:07:39.531Z  
+**Runtime:** 33 ms (beats 74.64%)  
+**Memory:** 13.7 MB (beats 77.71%)  
+**Submitted:** 2026-11-14T18:26:22.195Z  
 
 ```cpp
 class Solution {
