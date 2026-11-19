@@ -13,6 +13,8 @@ The matching should cover the  **entire**  input string (not partial).
 
  
 
+Original
+C++
  **Example 1:** 
 
 ```
@@ -51,9 +53,9 @@ Explanation: '?' matches 'c', but the second letter is 'a', which does not matc
 ## Solution
 
 **Language:** C++  
-**Runtime:** 68 ms (beats 22.14%)  
-**Memory:** 15.9 MB (beats 43.55%)  
-**Submitted:** 2026-10-24T12:41:26.156Z  
+**Runtime:** 63 ms (beats 34.23%)  
+**Memory:** 15.7 MB (beats 61.68%)  
+**Submitted:** 2026-11-19T20:02:09.207Z  
 
 ```cpp
 class Solution {
