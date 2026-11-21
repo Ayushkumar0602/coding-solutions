@@ -10,6 +10,8 @@ Given an integer array `nums`, return  *the maximum width of a  **ramp**  in* `n
 
  
 
+Original
+C++
  **Example 1:** 
 
 ```
@@ -38,9 +40,9 @@ Explanation: The maximum width ramp is achieved at (i, j) = (2, 9): nums[2] = 1 
 ## Solution
 
 **Language:** C++  
-**Runtime:** 8 ms (beats 44.69%)  
-**Memory:** 48 MB (beats 91.48%)  
-**Submitted:** 2026-11-08T14:59:55.519Z  
+**Runtime:** 5 ms (beats 70.08%)  
+**Memory:** 48.2 MB (beats 59.55%)  
+**Submitted:** 2026-11-21T17:09:21.887Z  
 
 ```cpp
 class Solution {
