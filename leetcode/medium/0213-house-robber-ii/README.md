@@ -10,6 +10,8 @@ Given an integer array `nums` representing the amount of money of each house, re
 
  
 
+Original
+C++
  **Example 1:** 
 
 ```
@@ -48,8 +50,8 @@ Output: 3
 
 **Language:** C++  
 **Runtime:** 0 ms (beats 100.00%)  
-**Memory:** 10.7 MB (beats 57.34%)  
-**Submitted:** 2026-11-03T19:02:54.260Z  
+**Memory:** 10.6 MB (beats 53.75%)  
+**Submitted:** 2026-11-24T20:37:37.814Z  
 
 ```cpp
 class Solution {
